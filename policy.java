@@ -1,1 +1,5 @@
-class policy{}
+class policy{
+	void function1(){}
+
+	
+}
